@@ -1,1 +1,1 @@
-# Math_RL_2022_2023
+# This page contains materials for Mathematical foundations of RL course, HSE MML master program. Developed and maintained by HDI lab.
